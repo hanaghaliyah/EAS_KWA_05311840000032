@@ -20,7 +20,7 @@ NRP  : 05311840000032
 ![Broken Button](https://user-images.githubusercontent.com/26424136/82996612-6bc1ee00-a02f-11ea-9c3f-954ca915c976.PNG)
 
 ## Login Sequel
-`<b>Login</b> as admin you must. This time, the client is of no use :(. What to do?` <br />
+![Login sequel](https://user-images.githubusercontent.com/26424136/83002844-bb0c1c80-a037-11ea-972d-124236c9f3ef.PNG)
 Tampilan Halaman Login
 ![login sequel 1](https://user-images.githubusercontent.com/26424136/82976688-f09a1100-a009-11ea-8ce7-222763d7b14c.PNG)
 #### Penyelesaian
@@ -54,8 +54,7 @@ username: admin' /*
 <b>Flag: tjctf{W0w_wHa1_a_SqL1_exPeRt!}</b> 
 
 ## Forwarding
-It can't be that hard... right? <br />
-_forwarding_ <br />
+![forwarding 2](https://user-images.githubusercontent.com/26424136/83002840-b9daef80-a037-11ea-8b78-5b71abe8137e.PNG)
 
 #### Penyelesaian
 - Klik _forwarding_ (Ketika diklik forwarding auto download)
@@ -65,7 +64,7 @@ _forwarding_ <br />
 <b>Flag: tjctf{just_g3tt1n9_st4rt3d} </b>
 
 ## Sarah Palin Fanpage
-Are you a true fan of Alaska's most famous governor? Visit the _Sarah Palin fanpage_.
+![sarah palin fanpage](https://user-images.githubusercontent.com/26424136/83002846-bc3d4980-a037-11ea-8c6e-1ce4558b807c.PNG)
 ![Screenshot (375)](https://user-images.githubusercontent.com/26424136/82979190-a2d4d700-a010-11ea-9d07-272b608f204e.png)
 
 #### Penyelesaian
@@ -96,6 +95,11 @@ eyIxIjp0cnVlLCIyIjp0cnVlLCIzIjp0cnVlLCI0Ijp0cnVlLCI1Ijp0cnVlLCI2Ijp0cnVlLCI3Ijp0
 ![Screenshot (381)](https://user-images.githubusercontent.com/26424136/82979197-a8322180-a010-11ea-9b38-32b7cc7eb63a.png)
 - Flag telah ditemukan <br />
 Flag: <b>tjctf{wkDd2Pi4rxiRaM5lOcLo979rru8MFqVHKdTqPBm4k3iQd8n0sWbBkOfuq9vDTGN9suZgYlH3jq6QTp3tG3EYapzsTHL7ycqRTP5Qf6rQSB33DcQaaqwQhpbuqPBm4k3iQd8n0sWbBkOf}</b>.
+
+## Hexillology
+![Hexillology](https://user-images.githubusercontent.com/26424136/83003350-64531280-a038-11ea-867f-84896a6d9237.PNG)
+Gambar pada _flag_ hexillology
+![Hexi flag](https://user-images.githubusercontent.com/26424136/83003542-a7ad8100-a038-11ea-841c-c58f11ce63b4.png)
 
 ## RSABC 
 ![rsabcc](https://user-images.githubusercontent.com/26424136/82997703-ec351e80-a030-11ea-9a2f-45f5d0a21cbf.PNG)
