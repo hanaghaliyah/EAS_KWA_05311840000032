@@ -99,6 +99,7 @@ Flag: <b>tjctf{wkDd2Pi4rxiRaM5lOcLo979rru8MFqVHKdTqPBm4k3iQd8n0sWbBkOfuq9vDTGN9s
 
 ## RSABC 
 ![rsabcc](https://user-images.githubusercontent.com/26424136/82997703-ec351e80-a030-11ea-9a2f-45f5d0a21cbf.PNG)
+![rsabccc](https://user-images.githubusercontent.com/26424136/83002151-e6423c00-a036-11ea-958e-9c77c94cb085.PNG)
 
 #### Penyelesaian
 Disini saya mencari flag menggunakan OS ubuntu dan Bahasa ruby
