@@ -96,10 +96,23 @@ eyIxIjp0cnVlLCIyIjp0cnVlLCIzIjp0cnVlLCI0Ijp0cnVlLCI1Ijp0cnVlLCI2Ijp0cnVlLCI3Ijp0
 - Flag telah ditemukan <br />
 Flag: <b>tjctf{wkDd2Pi4rxiRaM5lOcLo979rru8MFqVHKdTqPBm4k3iQd8n0sWbBkOfuq9vDTGN9suZgYlH3jq6QTp3tG3EYapzsTHL7ycqRTP5Qf6rQSB33DcQaaqwQhpbuqPBm4k3iQd8n0sWbBkOf}</b>.
 
+
 ## Hexillology
 ![Hexillology](https://user-images.githubusercontent.com/26424136/83003350-64531280-a038-11ea-867f-84896a6d9237.PNG)
 Gambar pada [flag](https://static.tjctf.org/af83861c918131864a4e3df24c49d9bad766ae701f02387ee0698593b44f3390_Hexillology.png) hexillology
 ![Hexi flag](https://user-images.githubusercontent.com/26424136/83003542-a7ad8100-a038-11ea-841c-c58f11ce63b4.png)
+
+#### Penyelesaian
+- Buka Tool online [Image Color Picker](https://imagecolorpicker.com/en/) untuk mengetahui hex code color pada gambar tersebut
+- Upload image hexillology pada Image Color Picker
+![image color picker](https://user-images.githubusercontent.com/26424136/83004675-28b94800-a03a-11ea-9fe9-887880db2423.PNG)
+- Dalam gambar terdapat 7 color, copy hex code per color pada gambar tersebut
+- Convert hex to ascii menggunakan [Hex to ASCII Text Converter](https://www.rapidtables.com/convert/number/hex-to-ascii.html)
+Input : #746a63#74667b#70594a#726651#4b3064#626154#50477d
+![Hexillology 2](https://user-images.githubusercontent.com/26424136/83006300-38399080-a03c-11ea-8f20-9b8cce81ba32.PNG)
+- Flag telah ditemukan
+Flag: <b>tjctf{pYJrfQK0dbaTPG}</b>
+
 
 ## RSABC 
 ![rsabcc](https://user-images.githubusercontent.com/26424136/82997703-ec351e80-a030-11ea-9a2f-45f5d0a21cbf.PNG)
