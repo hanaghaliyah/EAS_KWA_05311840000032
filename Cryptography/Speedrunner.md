@@ -1,9 +1,9 @@
 # Speedrunner
-## Description
+## Soal
 I want to make it into the hall of fame -- a top runner in "The History of American Dad Speedrunning". But to do that, I'll need to be faster. I found some [weird parts](https://static.tjctf.org/6e61ec43e56cff1441f4cef46594bf75869a2c66cb47e86699e36577fbc746ff_encoded.txt) in the American Dad source code. I think it might help me become the best. <br>
 __Hint__: ```SHI ZAAAAA (cipher)```
 
-## Solution
+## Penyelesaian
 1. Pencarian ```flag``` akan kita cari melalui _link_ [weird parts](https://static.tjctf.org/6e61ec43e56cff1441f4cef46594bf75869a2c66cb47e86699e36577fbc746ff_encoded.txt) <br>
 ![01](https://user-images.githubusercontent.com/49342639/83008117-dfb7c280-a03e-11ea-94ce-8cbc713effda.PNG)
 
@@ -15,8 +15,5 @@ __Hint__: ```SHI ZAAAAA (cipher)```
 	![04](https://user-images.githubusercontent.com/49342639/83009719-5bb30a00-a041-11ea-9ead-e0639e26d230.PNG)
 	
 ## Flag
-```html
-TJCTF{NEW_TECH_NEW_TECH_GO_FAST_GO_FAST}
-```
-Have i really done it? <br>
-![Solved](https://user-images.githubusercontent.com/49342639/83009896-a765b380-a041-11ea-93d2-6f9c4477367f.PNG)
+
+Flag : <b>TJCTF{NEW_TECH_NEW_TECH_GO_FAST_GO_FAST}</b>
