@@ -98,7 +98,7 @@ Flag: <b>tjctf{wkDd2Pi4rxiRaM5lOcLo979rru8MFqVHKdTqPBm4k3iQd8n0sWbBkOfuq9vDTGN9s
 
 ## Hexillology
 ![Hexillology](https://user-images.githubusercontent.com/26424136/83003350-64531280-a038-11ea-867f-84896a6d9237.PNG)
-Gambar pada _flag_ hexillology
+Gambar pada [flag](https://static.tjctf.org/af83861c918131864a4e3df24c49d9bad766ae701f02387ee0698593b44f3390_Hexillology.png) hexillology
 ![Hexi flag](https://user-images.githubusercontent.com/26424136/83003542-a7ad8100-a038-11ea-841c-c58f11ce63b4.png)
 
 ## RSABC 
