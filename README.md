@@ -1,7 +1,23 @@
 # EAS_KWA_05311840000032
-[TJCTF 2020] <br />
+[TJCTF 2020] (http://tjctf.org/) <br />
 Nama : Hana Ghaliyah Azhar <br />
 NRP  : 05311840000032
+
+## Table of Contents
+- Miscellaneous
+- Web
+- Cryptography
+- Reversing
+- Forensics
+
+## A First Step
+![A first step](https://user-images.githubusercontent.com/26424136/82996609-6a90c100-a02f-11ea-8c3c-8759698a0ac3.PNG)
+
+## Discord
+![Discord](https://user-images.githubusercontent.com/26424136/82996615-6c5a8480-a02f-11ea-8bdf-2505f652e7ea.PNG)
+
+## Broken Button
+![Broken Button](https://user-images.githubusercontent.com/26424136/82996612-6bc1ee00-a02f-11ea-9c3f-954ca915c976.PNG)
 
 ## Login Sequel
 `<b>Login</b> as admin you must. This time, the client is of no use :(. What to do?` <br />
