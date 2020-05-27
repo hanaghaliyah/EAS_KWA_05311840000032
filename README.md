@@ -1,5 +1,8 @@
 # EAS_KWA_05311840000032
 [TJCTF 2020](http://tjctf.org/)<br />
+Team Name : [milkita] (https://tjctf.org/teams/profile/843)
+Points : 610
+<br />
 Nama : Hana Ghaliyah Azhar <br />
 NRP  : 05311840000032
 
