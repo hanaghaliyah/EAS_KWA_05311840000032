@@ -72,11 +72,11 @@ Are you a true fan of Alaska's most famous governor? Visit the _Sarah Palin fanp
 - Inspect Element website tersebut, buka cookies pada application
 ![Screenshot (376)](https://user-images.githubusercontent.com/26424136/82979192-a5373100-a010-11ea-9d7c-e6369123f290.png)
 - Decode value pada name data  menggunakan base64 <br />
-Input
+1. Input
 ```
 eyIxIjpmYWxzZSwiMiI6ZmFsc2UsIjMiOmZhbHNlLCI0IjpmYWxzZSwiNSI6ZmFsc2UsIjYiOmZhbHNlLCI3IjpmYWxzZSwiOCI6ZmFsc2UsIjkiOmZhbHNlLCIxMCI6ZmFsc2V9
 ```
-Hasil Decode
+2. Hasil Decode
 ```
 {"1":false,"2":false,"3":false,"4":false,"5":false,"6":false,"7":false,"8":false,"9":false,"10":false}
 ```
@@ -96,3 +96,74 @@ eyIxIjp0cnVlLCIyIjp0cnVlLCIzIjp0cnVlLCI0Ijp0cnVlLCI1Ijp0cnVlLCI2Ijp0cnVlLCI3Ijp0
 ![Screenshot (381)](https://user-images.githubusercontent.com/26424136/82979197-a8322180-a010-11ea-9b38-32b7cc7eb63a.png)
 - Flag telah ditemukan <br />
 Flag: <b>tjctf{wkDd2Pi4rxiRaM5lOcLo979rru8MFqVHKdTqPBm4k3iQd8n0sWbBkOfuq9vDTGN9suZgYlH3jq6QTp3tG3EYapzsTHL7ycqRTP5Qf6rQSB33DcQaaqwQhpbuqPBm4k3iQd8n0sWbBkOf}</b>.
+
+## RSABC 
+![rsabcc](https://user-images.githubusercontent.com/26424136/82997703-ec351e80-a030-11ea-9a2f-45f5d0a21cbf.PNG)
+
+#### Penyelesaian
+Disini saya mencari flag menggunakan OS ubuntu dan Bahasa ruby
+- Membuat file bernama solve.rb yang berisi source code RSA dengan perintah `nano solve.rb`
+![rsabc](https://user-images.githubusercontent.com/26424136/82997747-fce59480-a030-11ea-807a-baeebdd07248.PNG)
+- Berikut source code RSA pada <b>solve.rb</b>
+```
+#!/usr/bin/env ruby
+require 'openssl'
+
+# From challenge
+n = 57772961349879658023983283615621490728299498090674385733830087914838280699121
+e = 65537
+c = 36913885366666102438288732953977798352561146298725524881805840497762448828130
+
+# Factorised by factordb.com
+p = 202049603951664548551555274464815496697
+q = 285934543893985722871321330457714807993
+
+raise "wrong factors" unless p*q == n
+
+# Helper methods
+"""
+def extended_gcd(a, b)
+  last_remainder, remainder = a.abs, b.abs
+  x, last_x, y, last_y = 0, 1, 1, 0
+  while remainder != 0
+    last_remainder, (quotient, remainder) = remainder, last_remainder.divmod(remainder)
+    x, last_x = last_x - quotient*x, x
+    y, last_y = last_y - quotient*y, y
+  end
+ 
+  return last_remainder, last_x * (a < 0 ? -1 : 1)
+end
+ 
+def invmod(e, et)
+  g, x = extended_gcd(e, et)
+  if g != 1
+    raise 'The maths are broken!'
+  end
+  x % et
+end
+"""
+
+def invmod(e, et)
+  e.to_bn.mod_inverse(et)
+end
+
+def powmod(x, e, n)
+  x.to_bn.mod_exp(e, n)
+end
+
+def hex2ascii(text)
+  [text].pack('H*')
+end
+
+# Decrypt
+phi = (p-1)*(q-1)
+d = invmod(e,phi)
+
+plaintext = powmod(c, d, n)
+plaintext = plaintext.to_s(16)
+plaintext = hex2ascii(plaintext)
+puts plaintext
+```
+- `Nilai p dan q` diambil dari faktorisasi `nilai n`, disini saya memfaktorkan menggunakan [factordb](http://factordb.com/)<br /> 
+![rsabc 3](https://user-images.githubusercontent.com/26424136/83001087-7089a080-a035-11ea-95bf-3caacc000c1d.PNG)
+
