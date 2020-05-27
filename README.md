@@ -110,7 +110,7 @@ Gambar pada [flag](https://static.tjctf.org/af83861c918131864a4e3df24c49d9bad766
 - Convert hex to ascii menggunakan [Hex to ASCII Text Converter](https://www.rapidtables.com/convert/number/hex-to-ascii.html) <br />
 Input : `#746a63#74667b#70594a#726651#4b3064#626154#50477d`
 ![Hexillology 2](https://user-images.githubusercontent.com/26424136/83006300-38399080-a03c-11ea-8f20-9b8cce81ba32.PNG)
-- Flag telah ditemukan
+- Flag telah ditemukan <br />
 Flag: <b>tjctf{pYJrfQK0dbaTPG}</b>
 
 
