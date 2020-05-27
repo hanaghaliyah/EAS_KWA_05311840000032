@@ -54,7 +54,7 @@ Are you a true fan of Alaska's most famous governor? Visit the _Sarah Palin fanp
 #### Penyelesaian
 - Inspect Element website tersebut, buka cookies pada application
 ![Screenshot (376)](https://user-images.githubusercontent.com/26424136/82979192-a5373100-a010-11ea-9d7c-e6369123f290.png)
-- Decode value pada name data  menggunakan base64
+- Decode value pada name data  menggunakan base64 <br />
 Input
 ```
 eyIxIjpmYWxzZSwiMiI6ZmFsc2UsIjMiOmZhbHNlLCI0IjpmYWxzZSwiNSI6ZmFsc2UsIjYiOmZhbHNlLCI3IjpmYWxzZSwiOCI6ZmFsc2UsIjkiOmZhbHNlLCIxMCI6ZmFsc2V9
@@ -75,7 +75,7 @@ eyIxIjp0cnVlLCIyIjp0cnVlLCIzIjp0cnVlLCI0Ijp0cnVlLCI1Ijp0cnVlLCI2Ijp0cnVlLCI3Ijp0
 ```
 ![Screenshot (380)](https://user-images.githubusercontent.com/26424136/82979196-a700f480-a010-11ea-9733-ba38a2678729.png)
 - Kemudian refresh dan tutup inspect element
-- Buka tab <b>VIP</b> area pada website sarah palin fanpage
+- Buka tab <b>VIP area</b> pada website sarah palin fanpage
 ![Screenshot (381)](https://user-images.githubusercontent.com/26424136/82979197-a8322180-a010-11ea-9b38-32b7cc7eb63a.png)
-- Flag telah ditemukan
-Flag: tjctf{wkDd2Pi4rxiRaM5lOcLo979rru8MFqVHKdTqPBm4k3iQd8n0sWbBkOfuq9vDTGN9suZgYlH3jq6QTp3tG3EYapzsTHL7ycqRTP5Qf6rQSB33DcQaaqwQhpbuqPBm4k3iQd8n0sWbBkOf}.
+- Flag telah ditemukan <br />
+Flag: <b>tjctf{wkDd2Pi4rxiRaM5lOcLo979rru8MFqVHKdTqPBm4k3iQd8n0sWbBkOfuq9vDTGN9suZgYlH3jq6QTp3tG3EYapzsTHL7ycqRTP5Qf6rQSB33DcQaaqwQhpbuqPBm4k3iQd8n0sWbBkOf}</b>.
