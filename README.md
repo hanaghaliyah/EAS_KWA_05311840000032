@@ -166,4 +166,7 @@ puts plaintext
 ```
 - `Nilai p dan q` diambil dari faktorisasi `nilai n`, disini saya memfaktorkan menggunakan [factordb](http://factordb.com/)<br /> 
 ![rsabc 3](https://user-images.githubusercontent.com/26424136/83001087-7089a080-a035-11ea-95bf-3caacc000c1d.PNG)
-
+- Jalankan program tersebut dengan perintah `ruby solve.py`
+![rsabc 2](https://user-images.githubusercontent.com/26424136/82997745-fbb46780-a030-11ea-8131-7cf01bf4cb7b.PNG)
+- Flag telah ditemukan <br />
+Flag: 
