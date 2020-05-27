@@ -7,11 +7,11 @@ Tampilan pada halaman [weird parts](https://static.tjctf.org/6e61ec43e56cff1441f
 __Hint__: ```SHI ZAAAAA (cipher)```
 
 ## Penyelesaian
-1. Cara Manual
+1. Cara Manual <br />
 Mencari flag dengan cara manual. Semua flag yang ada di tjctf 2020 pasti diawali dengan tjctf{}, oleh karena itu saya mencoba untuk menghitung jarak huruf C dengan T dan hasilnya yaitu 17. dan setelah itu saya mencoba menghitung dengan jarak huruf 17 pada huruf S, L, C, dan O, ternyata menghasilkan kata tjctf. Kemudian saya mulai menghitung satu per satu huruf yang ada didalam kurung kurawal yaitu {WNF_CNLQ_WNF_CNLQ_PX_OJBC_PX_OJBC}. Dan saya pun telah menemukan flagnya.
 ![cara manual](https://user-images.githubusercontent.com/26424136/83019853-d4ba5d80-a051-11ea-9c05-93621314e27e.jpeg)
 
-2. Cara Otomatis (melalui web online)
+2. Cara Otomatis (melalui web online) <br />
 Pencarian ```flag``` akan kita cari melalui _link_ [weird parts](https://static.tjctf.org/6e61ec43e56cff1441f4cef46594bf75869a2c66cb47e86699e36577fbc746ff_encoded.txt) <br>
 ![01](https://user-images.githubusercontent.com/49342639/83008117-dfb7c280-a03e-11ea-94ce-8cbc713effda.PNG)
 
