@@ -169,4 +169,4 @@ puts plaintext
 - Jalankan program tersebut dengan perintah `ruby solve.py`
 ![rsabc 2](https://user-images.githubusercontent.com/26424136/82997745-fbb46780-a030-11ea-8131-7cf01bf4cb7b.PNG)
 - Flag telah ditemukan <br />
-Flag: 
+Flag: <b>tjctf{BOLm1QMWi3c}</b>
