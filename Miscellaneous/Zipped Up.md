@@ -10,9 +10,9 @@ Disini saya menggunakan <b>OS Ubuntu</b> <br />
 	```html
 	wget "https://static.tjctf.org/663d7cda5bde67bd38a8de1f07fb9fab9dd8dd0b75607bb459c899acb0ace980_0.zip"
 	```
-![a](https://user-images.githubusercontent.com/26424136/83170899-766ba880-a13f-11ea-9a5d-64712ff85e1c.PNG)
-<br> **_zip file_** telah berhasil diunduh pada _Archive Manager_ dari Ubuntu
-![b](https://user-images.githubusercontent.com/26424136/83170905-78356c00-a13f-11ea-9ec8-2f87e8bfe807.PNG)
+	![a](https://user-images.githubusercontent.com/26424136/83170899-766ba880-a13f-11ea-9a5d-64712ff85e1c.PNG)
+	<br> **_zip file_** telah berhasil diunduh pada _Archive Manager_ dari Ubuntu
+	![b](https://user-images.githubusercontent.com/26424136/83170905-78356c00-a13f-11ea-9ec8-2f87e8bfe807.PNG)
 
 2. Lakukan pengekstrakan manual dari **_zip file_** yang telah diunduh
 ![c](https://user-images.githubusercontent.com/26424136/83170907-79ff2f80-a13f-11ea-98dc-746fe1a3211c.PNG)
