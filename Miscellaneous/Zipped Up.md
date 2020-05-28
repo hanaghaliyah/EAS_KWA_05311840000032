@@ -2,7 +2,7 @@
 
 ## SOAL
 ![Zipped Up](https://user-images.githubusercontent.com/26424136/83015646-f106cc00-a04a-11ea-8c98-5ad7fb929279.PNG)
-[zip file](https://static.tjctf.org/663d7cda5bde67bd38a8de1f07fb9fab9dd8dd0b75607bb459c899acb0ace980_0.zip)
+[zip file](https:https://user-images.githubusercontent.com/26424136/83172316-9bf9b180-a141-11ea-9519-5259e3b3ab65.png//static.tjctf.org/663d7cda5bde67bd38a8de1f07fb9fab9dd8dd0b75607bb459c899acb0ace980_0.zip)
 ____________________________________
 ## Penyelesaian
 Disini saya menggunakan <b>OS Ubuntu</b> <br />
@@ -38,16 +38,16 @@ Disini saya menggunakan <b>OS Ubuntu</b> <br />
 	cd 1
 	cat 1.txt
 	```
-	<b>1.txt</b> berisi <b>bukan flag</b> yaitu `tjctf{n0t_th3_fl4g}`
+	<b>1.txt</b> berisi <b>bukan flag</b> yaitu
 	![h2](https://user-images.githubusercontent.com/26424136/83172309-9a2fee00-a141-11ea-94ed-20e6f755a2a3.png)
 
 7. Dikarenakan ada 1000 folder dan hanya ada 1 folder saja yang berisi file berekstensi ```txt``` yang mengandung ```flag sebenarnya```, maka kita gunakan ```grep``` 
 	```html
 	grep -v -r "tjctf{n0t_th3_fl4g}" /home/hanaghaliyah/ZippedUp/0
 	```
-	<br>Lakukan __scroll__ hingga ditemukan sebuah ```flag sebenarnya```
+	Lakukan __scroll__ hingga ditemukan sebuah ```flag sebenarnya```
 	![i](https://user-images.githubusercontent.com/26424136/83172316-9bf9b180-a141-11ea-9519-5259e3b3ab65.png)
-<br>Nah, sebuah ```flag``` terlihat dan flag telah ditemukan
+<br>Flag telah ditemukan
 ![j](https://user-images.githubusercontent.com/26424136/83172318-9c924800-a141-11ea-8a91-05547297cfb2.PNG)
 
 ____________________________________
