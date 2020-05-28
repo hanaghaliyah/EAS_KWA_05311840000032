@@ -17,7 +17,7 @@ Level 2 akan melawan 3 monster hijau yang sama dengan level 1. Dengan sedikit sk
 Level 3 akan muncul boss pemilik monster monster tersebut. Boss pada level ini masih dapat dikalahkan tanpa harus menggunakan cheat
 <img width="691" alt="level 3" src="https://user-images.githubusercontent.com/26424136/83148820-9c834f80-a123-11ea-8b5d-78d9bb88ccff.png">
 <br />
-Level 4 boss tersebut akan ter-upgrade dan memiliki machine gun yang dapat menembak banyak peluru hijau sekaligus. Disinilah saatnya menggunakan cheat.
+Level 4 boss tersebut akan ter-upgrade dan memiliki machine gun yang dapat menembak banyak peluru hijau sekaligus. Disinilah saatnya menggunakan cheat. <br />
 <img width="688" alt="level 4" src="https://user-images.githubusercontent.com/26424136/83148817-9b522280-a123-11ea-9669-3076397160b0.png">
 <br />
 Gunakan Cetus untuk mengubah total hp dari pemain kita. Kode untuk hp pemain adalah : `0x2112f1c`. Bookmark dan ubah valuenya menjadi banyak supaya tidak mati-mati saat terkena tembakan hijau. <br /> <br />
