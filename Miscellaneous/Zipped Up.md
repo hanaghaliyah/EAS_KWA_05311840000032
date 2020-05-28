@@ -45,9 +45,9 @@ Disini saya menggunakan <b>OS Ubuntu</b> <br />
 	```html
 	grep -v -r "tjctf{n0t_th3_fl4g}" /home/hanaghaliyah/ZippedUp/0
 	```
-	Lakukan __scroll__ hingga ditemukan sebuah ```flag sebenarnya```
+	Lakukan __scroll__ hingga ditemukan sebuah ```flag sebenarnya``` <br>
 	![i](https://user-images.githubusercontent.com/26424136/83172316-9bf9b180-a141-11ea-9519-5259e3b3ab65.png)
-<br>Flag telah ditemukan
+<br>Flag telah ditemukan <br>
 ![j](https://user-images.githubusercontent.com/26424136/83172318-9c924800-a141-11ea-8a91-05547297cfb2.PNG)
 
 ____________________________________
