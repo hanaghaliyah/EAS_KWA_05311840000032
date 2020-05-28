@@ -15,7 +15,7 @@ Observer Teams <br />
 Points : 610
 <br />
 
-## Table of Problems
+## Problems Solved
 - Miscellaneous
     - [A First Step](https://github.com/hanaghaliyah/EAS_KWA_05311840000032/blob/master/Miscellaneous/A%20First%20Step.md)
     - [Discord](https://github.com/hanaghaliyah/EAS_KWA_05311840000032/blob/master/Miscellaneous/Discord.md)
