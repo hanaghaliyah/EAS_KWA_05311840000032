@@ -13,7 +13,9 @@ Untuk mengetahui cara login, tekan F12 atau inspect element. Pada Sources dapat 
     
   
 Dari situ dapat diketahui bahwa username adalah admin dan c2a094f7d35f2299b414b6a1b3bd595a adalah hash md5 dari passwordnya. Buka [md5 decrypt](https://www.md5online.org/md5-decrypt.html) dan lakukan decrypt pada tersebut. Akan didapat bahwa passwordnya adalah inevitable. 
-Masukkan username : Admin dan password : inevitable.
+Masukkan username : `admin` dan password : `inevitable`. Lalu klik login.
+![login2](https://user-images.githubusercontent.com/26424136/83158921-9abf8900-a12f-11ea-855a-21f24c57e453.PNG)
+Flag telah ditemukan.
 ____________________________________
 ## Flag
 
