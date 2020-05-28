@@ -14,7 +14,7 @@ Setelah dicari, akan didapatkan kode untuk gold adalah : `0x02111f3c`. Kemudian 
 Level 2 akan melawan 3 monster hijau yang sama dengan level 1. Dengan sedikit skill untuk bermain game dapat dimenangkan tanpa harus menggunakan cheat. <br />
 <img width="687" alt="level 2" src="https://user-images.githubusercontent.com/26424136/83148823-9c834f80-a123-11ea-8d77-a4f8571b2f87.png">
 <br />
-Level 3 akan muncul boss pemilik monster monster tersebut. Boss pada level ini masih dapat dikalahkan tanpa harus menggunakan cheat
+Level 3 akan muncul boss pemilik monster monster tersebut. Boss pada level ini masih dapat dikalahkan tanpa harus menggunakan cheat <br />
 <img width="691" alt="level 3" src="https://user-images.githubusercontent.com/26424136/83148820-9c834f80-a123-11ea-8b5d-78d9bb88ccff.png">
 <br />
 Level 4 boss tersebut akan ter-upgrade dan memiliki machine gun yang dapat menembak banyak peluru hijau sekaligus. Disinilah saatnya menggunakan cheat. <br />
