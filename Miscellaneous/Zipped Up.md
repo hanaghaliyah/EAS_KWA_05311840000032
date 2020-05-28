@@ -1,11 +1,11 @@
 # Zipped Up
-**Soal**
+
+## SOAL
 ![Zipped Up](https://user-images.githubusercontent.com/26424136/83015646-f106cc00-a04a-11ea-8c98-5ad7fb929279.PNG)
 [zip file](https://static.tjctf.org/663d7cda5bde67bd38a8de1f07fb9fab9dd8dd0b75607bb459c899acb0ace980_0.zip)
 ____________________________________
-**Penyelesaian**
-__OS Tools__ : Ubuntu <br>
-__Method__ :
+## Penyelesaian
+Disini saya menggunakan <b>OS Ubuntu</b> <br />
 1. Lakukan pengunduhan terhadap **_zip file_** melalui terminal ubuntu dengan menggunakan ```wget``` 
 	```html
 	wget "https://static.tjctf.org/663d7cda5bde67bd38a8de1f07fb9fab9dd8dd0b75607bb459c899acb0ace980_0.zip"
@@ -48,5 +48,5 @@ __Method__ :
 ![11](https://user-images.githubusercontent.com/49342639/82994110-d709c100-a02b-11ea-91df-5bb1d2f153a6.PNG)
 
 ____________________________________
-**Flag**
-Flag: tjctf{p3sky_z1p_f1L35}
+## Flag
+Flag: <b>tjctf{p3sky_z1p_f1L35}</b>
