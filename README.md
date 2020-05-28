@@ -43,8 +43,7 @@ Points : 610
     - [Rap God](https://github.com/hanaghaliyah/EAS_KWA_05311840000032/blob/master/Forensics/Rap%20God.md)
 
 ## Rank on TJCTF 2020
-[Scoreboard TJCTF 2020](https://tjctf.org/scoreboard) <br />
-Show Observer Teams
+Lihat [Scoreboard](https://tjctf.org/scoreboard) TJCTF 2020 dan Show Observer Teams.<br />
 ![Rank](https://user-images.githubusercontent.com/26424136/83152791-685e5d80-a128-11ea-8471-2da8c24a9493.PNG)
 
 ## Score Progression on TJCTF 2020
