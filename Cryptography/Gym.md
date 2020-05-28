@@ -10,10 +10,10 @@ ___________________________________
 - Jadi pada soal ini diminta untuk menurunkan berat badan. Berat badan sekarang yaitu 211 dan targetnya yaitu 180. Per harinya diberi 4 pilihan, dimana di tiap pilihan tersebut dapat mengurangi berat badan dengan nilai tertentu. 
 - Untuk mengetahui nilai disetiap pilihan tersebut, kita perlu download aplikasi decompiler. Saya menggunakan aplikasi ghidra, program gym yang telah didownload tadi di decompile disini. <br />
 Berikut list pilihan beserta nilainya
-1. eat_healthy = -4
-2. do_pushup = -1
-3. go_run = -2 + -3
-4. go_sleep = -3
+  1. eat_healthy = -4
+  2. do_pushup = -1
+  3. go_run = -2 + -3
+  4. go_sleep = -3
 - Cari cara biar 211 jadi 180 dalam 7 hari. <br />
 211 - 180 = 31, jadi dalam 7 hari kita perlu menurunkan sebanyak 31. <br /> 
 Jadi selama 7 hari kita perlu memilih pilihan sebagai berikut: <br />
@@ -23,7 +23,7 @@ Jadi selama 7 hari kita perlu memilih pilihan sebagai berikut: <br />
   - Day 4 : Pilihan 1 = -4
   - Day 5 : Pilihan 3 = -2 + -3
   - Day 6 : Pilihan 3 = -2 + -3
-  - Day 7 : Pilihan 3 = -2 + -3
+  - Day 7 : Pilihan 3 = -2 + -3 <br />
                       = - 31
 ![gym 2](https://user-images.githubusercontent.com/26424136/83095837-69fb3780-a0ce-11ea-9d24-d838ca66fa42.PNG)
 - Flag telah ditemukan
