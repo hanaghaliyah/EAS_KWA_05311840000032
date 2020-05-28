@@ -20,16 +20,16 @@ NRP  : 05311840000032
 - Cryptography
     - [Circles](https://github.com/hanaghaliyah/EAS_KWA_05311840000032/blob/master/Cryptography/Circles.md)
     - [Speedrunner](https://github.com/hanaghaliyah/EAS_KWA_05311840000032/blob/master/Cryptography/Speedrunner.md)
-    - [Tap Dancing]()
-    - [Typewriter]()
-    - [Titanic]()
+    - [Tap Dancing](https://github.com/hanaghaliyah/EAS_KWA_05311840000032/blob/master/Cryptography/Tap%20Dancing.md)
+    - [Typewriter](https://github.com/hanaghaliyah/EAS_KWA_05311840000032/blob/master/Cryptography/Typewriter.md)
+    - [Titanic](https://github.com/hanaghaliyah/EAS_KWA_05311840000032/blob/master/Cryptography/Titanic.md)
     - [Is This Crypto?](https://github.com/hanaghaliyah/EAS_KWA_05311840000032/blob/master/Cryptography/Is%20This%20Crypto%3F.md)
     - [RSABC](https://github.com/hanaghaliyah/EAS_KWA_05311840000032/blob/master/Cryptography/RSABC.md)
 - Reversing
     - [Forwarding](https://github.com/hanaghaliyah/EAS_KWA_05311840000032/blob/master/Reversing/Forwarding.md)
-    - [Gym]()
+    - [Gym](https://github.com/hanaghaliyah/EAS_KWA_05311840000032/blob/master/Reversing/Gym.md)
     - [Chord Encoder](https://github.com/hanaghaliyah/EAS_KWA_05311840000032/blob/master/Reversing/Chord%20Encoder.md)
 - Forensics
-    - [Ling Ling]()
+    - [Ling Ling](https://github.com/hanaghaliyah/EAS_KWA_05311840000032/blob/master/Forensics/Ling%20Ling.md)
     - [Hexillology](https://github.com/hanaghaliyah/EAS_KWA_05311840000032/blob/master/Forensics/Hexillology.md)
-    - [Rap God]()
+    - [Rap God](https://github.com/hanaghaliyah/EAS_KWA_05311840000032/blob/master/Forensics/Rap%20God.md)
