@@ -6,7 +6,7 @@ Points : 610
 Nama : Hana Ghaliyah Azhar <br />
 NRP  : 05311840000032
 
-## Table of Contents
+## Table of Problems
 - Miscellaneous
     - [A First Step](https://github.com/hanaghaliyah/EAS_KWA_05311840000032/blob/master/Miscellaneous/A%20First%20Step.md)
     - [Discord](https://github.com/hanaghaliyah/EAS_KWA_05311840000032/blob/master/Miscellaneous/Discord.md)
@@ -33,3 +33,15 @@ NRP  : 05311840000032
     - [Ling Ling](https://github.com/hanaghaliyah/EAS_KWA_05311840000032/blob/master/Forensics/Ling%20Ling.md)
     - [Hexillology](https://github.com/hanaghaliyah/EAS_KWA_05311840000032/blob/master/Forensics/Hexillology.md)
     - [Rap God](https://github.com/hanaghaliyah/EAS_KWA_05311840000032/blob/master/Forensics/Rap%20God.md)
+
+## Rank on TJCTF 2020
+[Scoreboard TJCTF 2020](https://tjctf.org/scoreboard) <br />
+<b>Show Observer Teams</b>
+![Rank](https://user-images.githubusercontent.com/26424136/83152791-685e5d80-a128-11ea-8471-2da8c24a9493.PNG)
+
+## Score Progression on TJCTF 2020
+My Team is [milkita](https://tjctf.org/teams/profile/843) <br />
+- Team Members is [@hanaghaliyah](https://tjctf.org/users/profile/1627) 
+- Observer Teams
+- Score Progression:
+![Screenshot (384)](https://user-images.githubusercontent.com/26424136/83152800-6a282100-a128-11ea-9768-e7eeb262fa06.png)
