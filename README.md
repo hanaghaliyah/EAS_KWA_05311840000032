@@ -6,8 +6,11 @@ NRP  : 05311840000032
 </b>    
 <br /> <br />
 
+## TJCTF 2020
 [TJCTF 2020](http://tjctf.org/)<br />
 Team Name : [milkita](https://tjctf.org/teams/profile/843) <br />
+Team Members is [@hanaghaliyah](https://tjctf.org/users/profile/1627) <br />
+Observer Teams <br />
 Points : 610
 <br />
 
@@ -45,8 +48,5 @@ Show Observer Teams
 ![Rank](https://user-images.githubusercontent.com/26424136/83152791-685e5d80-a128-11ea-8471-2da8c24a9493.PNG)
 
 ## Score Progression on TJCTF 2020
-My Team is [milkita](https://tjctf.org/teams/profile/843) <br />
-- Team Members is [@hanaghaliyah](https://tjctf.org/users/profile/1627) 
-- Observer Teams <br />
-Score Progression: <br />
+Lihat [Score Progression](https://tjctf.org/teams/profile/843) di TJCTF 2020<br />
 ![Screenshot (384)](https://user-images.githubusercontent.com/26424136/83152800-6a282100-a128-11ea-9768-e7eeb262fa06.png)
