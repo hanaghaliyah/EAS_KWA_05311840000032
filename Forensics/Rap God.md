@@ -11,7 +11,7 @@
 3. Pada hasil spektrum audio tersebut, dapat terlihat sebuah symbol-simbol. Simbol tersebut merupakan sebuah font yang bernama `Wingdings`. Font: <br />
 ![02](https://user-images.githubusercontent.com/26424136/83102203-290b1f00-a0de-11ea-8423-5e790216cb54.jpg)
 4. Terakhir lakukan konversi Simbol/Font tersebut menjadi huruf-huruf, maka akan didapatkannya sebuah kata yaitu `QUICKSONIC`.
-5. masukkan kata tersebut dalam format flag: `tjctf{QUICKSONIC}`.
+5. Masukkan kata tersebut dalam format flag: `tjctf{QUICKSONIC}`.
 
 ## Flag
 Flag: <b>tjctf{QUICKSONIC}</b>
