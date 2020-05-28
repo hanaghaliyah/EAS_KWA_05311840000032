@@ -30,18 +30,17 @@ Disini saya menggunakan <b>OS Ubuntu</b> <br />
 	```html
 	python3 UnzippedUp.py
 	```
-
-<br>Pengekstrakan telah berhasil dilakukan dan dapat kita mendapatkan semua isi dari **_zip file_** berjumlah __1000 folder__
-![g](https://user-images.githubusercontent.com/26424136/83172313-9b611b00-a141-11ea-9878-a6e63f76c3a6.png)
+	<br>Pengekstrakan telah berhasil dilakukan dan dapat kita mendapatkan semua isi dari **_zip file_** berjumlah __1000 folder__
+	![g](https://user-images.githubusercontent.com/26424136/83172313-9b611b00-a141-11ea-9878-a6e63f76c3a6.png)
 
 6. Kita tinjau ke dalam salah satu folder yakni pada folder ```1``` terdapat sebuah file bereksistensi ```txt``` yang berisi ```flag``` yang __bukan flag__ dengan menggunakan ```cat 1.txt```
 <br />
-```html
-cd 1
-cat 1.txt
-```
-<b>1.txt</b> berisi <b>bukan flag</b> yaitu _tjctf{n0t_th3_fl4g}_
-![h2](https://user-images.githubusercontent.com/26424136/83172309-9a2fee00-a141-11ea-94ed-20e6f755a2a3.png)
+	```html
+	cd 1
+	cat 1.txt
+	```
+	<b>1.txt</b> berisi <b>bukan flag</b> yaitu _tjctf{n0t_th3_fl4g}_
+	![h2](https://user-images.githubusercontent.com/26424136/83172309-9a2fee00-a141-11ea-94ed-20e6f755a2a3.png)
 
 7. Dikarenakan ada 1000 folder dan hanya ada 1 folder saja yang berisi file berekstensi ```txt``` yang mengandung ```flag sebenarnya```, maka kita gunakan ```grep``` 
 	```html
