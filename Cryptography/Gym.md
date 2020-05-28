@@ -17,13 +17,13 @@ Berikut list pilihan beserta nilainya
 - Cari cara biar 211 jadi 180 dalam 7 hari. <br />
 211 - 180 = 31, jadi dalam 7 hari kita perlu menurunkan sebanyak 31. <br /> 
 Jadi selama 7 hari kita perlu memilih pilihan sebagai berikut: <br />
-  - Day 1 : Pilihan 1 = -4
-  - Day 2 : Pilihan 1 = -4
-  - Day 3 : Pilihan 1 = -4
+  - Day 1 : Pilihan 3 = -2 + -3
+  - Day 2 : Pilihan 3 = -2 + -3
+  - Day 3 : Pilihan 3 = -2 + -3 
   - Day 4 : Pilihan 1 = -4
-  - Day 5 : Pilihan 3 = -2 + -3
-  - Day 6 : Pilihan 3 = -2 + -3
-  - Day 7 : Pilihan 3 = -2 + -3 <br />
+  - Day 5 : Pilihan 1 = -4
+  - Day 6 : Pilihan 1 = -4
+  - Day 7 : Pilihan 1 = -4 <br />
                       = - 31
 ![gym 2](https://user-images.githubusercontent.com/26424136/83095837-69fb3780-a0ce-11ea-9d24-d838ca66fa42.PNG)
 - Flag telah ditemukan
