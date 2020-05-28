@@ -1,6 +1,7 @@
 # Titanic
 
 **Soal :**
+![Titanic](https://user-images.githubusercontent.com/26424136/83098919-0c6ae900-a0d6-11ea-83bb-33ce3cab335e.PNG)
 I wrapped tjctf{} around the lowercase version of a word said in the 1997 film "Titanic" and created an MD5 hash of it: `e246dbab7ae3a6ed41749e20518fcecd`.
 
 **Jawaban**
