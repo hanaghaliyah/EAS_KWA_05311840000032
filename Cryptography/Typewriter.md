@@ -8,6 +8,7 @@ Layout keyboard pada typewriter sebelum menjadi "qwerty" adalah urut "abc"
 Jadi dengan huruf a di huruf q, huruf b di huruf w dan seterusnya.
 Diketahui flag yang di mau adalah zpezy{ktr_gkqfut_hxkhst_tyukokkgotyt_hoftqhhst_ykxoz_qxilrtxiyf}
 Dengan mensubtitusi seperti gambar maka akan mendapatkan flag sebenarnya. <br />
+Saya encode melalui [cryptii](https://cryptii.com/pipes/caesar-cipher). <br />
 Encode menggunakan library `Alphabetical Substitution` dengan plaintext alphabet `qwertyuiopasdfghjklzxcvbnm` dan ciphertext alphabet `abcdefghijklmnopqrstuvwxyz`.
 ![Typewriter](https://user-images.githubusercontent.com/26424136/83100152-68833c80-a0d9-11ea-8f83-9dc780e5d64f.PNG)
 
