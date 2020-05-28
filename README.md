@@ -1,7 +1,7 @@
 # EAS_KWA_05311840000032
 
 <b>
-Nama : Hana Ghaliyah Azhar 
+Nama : Hana Ghaliyah Azhar  <br />
 NRP  : 05311840000032
 </b>    
 <br /> <br />
