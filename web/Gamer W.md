@@ -1,9 +1,10 @@
 # Gamer W
-**Soal**
+
+## SOAL
 ![gamer w](https://user-images.githubusercontent.com/26424136/83015743-1a275c80-a04b-11ea-98c5-d97ad633eb89.PNG)
 
 ____________________________________
-**Penyelesaian**
+## Penyelesaian
 Pada game tersebut diberitahu bahwa harus menggunakan chrome extension Cetus yang dapat diunduh dari sini. Cetus dimanfaatkan untuk memanipulasi game tersebut. Langkah pertama, masuk ke dalam shop. Yang dapat kita ubah adalah value dari gold itu sendiri. Search menggunakan Cetus dengan comparison operator EQ dan value type f32.
 <img width="358" alt="cetus" src="https://user-images.githubusercontent.com/26424136/83148831-9e4d1300-a123-11ea-8249-248664493bea.png">
 Setelah dicari, akan didapatkan kode untuk gold adalah : `0x02111f3c`. Kemudian bookmark dan ubah value goldnya menjadi banyak untuk membeli semua yang ada di shop. Level 1 akan melawan 1 monster hijau yang bisa diselesaikan tanpa menggunakan cheat apapun.
@@ -19,5 +20,5 @@ Level 5 boss akan minum potion yang membuat lifenya regenerate jika terkena sera
 ![Game End](https://user-images.githubusercontent.com/26424136/83149720-a48fbf00-a124-11ea-827e-ce397f1b31f2.jpg)
 Game END, Flag telah ditemukan.
 ____________________________________
-**Flag**
+## Flag
 Flag: <b>tjctf{c3tus_del3tus_ur_m3ms_g0ne}</b>
