@@ -7,4 +7,4 @@
 Dari gambar dia atas, tinggal masukan kode flag tjctf{so0p3r_d0oper_5ecr3t} ke dalam sana
 
 ## Flag
-tjctf{so0p3r_d0oper_5ecr3t}
+Flag: <b>tjctf{so0p3r_d0oper_5ecr3t}</b>
