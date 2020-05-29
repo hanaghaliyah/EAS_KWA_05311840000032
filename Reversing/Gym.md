@@ -1,9 +1,9 @@
 # Gym
 
-### Persoalan
+## SOAL
 ![Gymm](https://user-images.githubusercontent.com/26424136/83095838-6a93ce00-a0ce-11ea-99bf-f41cbaff9a85.PNG)
 ___________________________________
-### Penyelesaian
+## Penyelesaian
 - Pertama kita harus mendownload file [create a plan](bed9d7b7327958dab4d07b06772a032f3e97455e310956558579e8838762b5e2_gym) yang diberikan pada persoalan. 
 - Jalankan command `nc p1.tjctf.org 8008` pada terminal
 ![gym 1](https://user-images.githubusercontent.com/26424136/83095833-68317400-a0ce-11ea-807b-07b2464168ea.PNG)
@@ -29,5 +29,6 @@ Jadi selama 7 hari kita perlu memilih pilihan sebagai berikut: <br />
 - Flag telah ditemukan
 ____________________________________
 ## Flag
-Flag dari persoalan ini adalah `tjctf{w3iGht_l055_i5_d1ff1CuLt}`.
+
+Flag: <b>tjctf{w3iGht_l055_i5_d1ff1CuLt}</b>.
 
