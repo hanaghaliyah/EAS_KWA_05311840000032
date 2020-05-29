@@ -21,7 +21,7 @@ Level 4 boss tersebut akan ter-upgrade dan memiliki machine gun yang dapat menem
 <img width="688" alt="level 4" src="https://user-images.githubusercontent.com/26424136/83148817-9b522280-a123-11ea-9669-3076397160b0.png">
 <br />
 Gunakan Cetus untuk mengubah total hp dari pemain kita. Kode untuk hp pemain adalah : `0x2112f1c`. Bookmark dan ubah valuenya menjadi banyak supaya tidak mati-mati saat terkena tembakan hijau. <br /> <br />
-Level 5 boss akan minum potion yang membuat lifenya regenerate jika terkena serangan. Disini manfaatkan lagi cheat untuk mengubah hp dari bossnya. Boss tersebut memiliki hp 300, dapat diketahui dengan cara menghitung 😏 . Kode untuk hp boss adalah : `0x2112e4c`. Bookmark, freeze, dan ubah valuenya menjadi 0.
+Level 5 boss akan minum potion yang membuat lifenya regenerate jika terkena serangan. Disini manfaatkan lagi cheat untuk mengubah hp dari bossnya. Boss tersebut memiliki hp 300, dapat diketahui dengan cara menghitung. Kode untuk hp boss adalah : `0x2112e4c`. Bookmark, freeze, dan ubah valuenya menjadi 0.
 ![Game End](https://user-images.githubusercontent.com/26424136/83149720-a48fbf00-a124-11ea-827e-ce397f1b31f2.jpg)
 <br />
 Game END, Flag telah ditemukan.
