@@ -13,4 +13,4 @@ Encode menggunakan library `Alphabetical Substitution` dengan plaintext alphabet
 ![Typewriter](https://user-images.githubusercontent.com/26424136/83100152-68833c80-a0d9-11ea-8f83-9dc780e5d64f.PNG)
 
 ## Flag
-tjctf{red_orange_purple_efgrirroiefe_pineapple_fruit_auhsdeuhfn}
+Flag: <b>tjctf{red_orange_purple_efgrirroiefe_pineapple_fruit_auhsdeuhfn}<b>
