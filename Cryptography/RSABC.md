@@ -71,7 +71,7 @@ Disini saya mencari flag menggunakan OS ubuntu dan Bahasa ruby
   plaintext = hex2ascii(plaintext)
   puts plaintext
   ```
-- Jalankan program tersebut dengan perintah `ruby solve.py`
+- Jalankan program tersebut dengan perintah `ruby solve.rb`
 ![rsabc 2](https://user-images.githubusercontent.com/26424136/82997745-fbb46780-a030-11ea-8131-7cf01bf4cb7b.PNG)
 - Flag telah ditemukan <br />
 ____________________________________
