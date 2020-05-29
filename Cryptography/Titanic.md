@@ -8,12 +8,12 @@ Yang kita ketahui adalah hash MD5 tersebut berasal dari script film "Titanic". S
 Langkah pertama adalah mengkopi script film Titanic terlebih dahulu di [sini](http://sites.inka.de/humpty/titanic/script.html). Kemudian dengan bantuan visual studio code, ubah semua menjadi lowercase, hapus `.` `,` `:` `/` , ubah spasi menjadi enter dan tambahkan tjctf{} di setiap barisnya.
 Setelah itu gunakan hashcat pada terminal dengan command sebagai berikut :
 
-    hashcat -m 0 -a 0 e246dbab7ae3a6ed41749e20518fcecd titanic.txt --force --show
+    hashcat -m 0 -a 0 9326ea0931baf5786cde7f280f965ebb titanic.txt --force --show
 
 Titanic.txt adalah script dari film "Titanic" yang sudah diubah. Tekan enter dan hasil akan langsung muncul. <br />
-![Titanic 2](https://user-images.githubusercontent.com/26424136/83160668-ac099500-a131-11ea-8617-d8123b18a6c1.PNG) <br />
+![titanic](https://user-images.githubusercontent.com/26424136/83210293-adb07880-a184-11ea-8f29-c92419bb0c02.PNG)) <br />
 Cocokkan dengan MD5 hash `9326ea0931baf5786cde7f280f965ebb` pada [MD5 Hash Generator](https://passwordsgenerator.net/md5-hash-generator/) seperti gambar diatas. Flag telah ditemukan.
 ____________________________________
 ## Flag
 
-Flag: <b>tjctf{ismay's}</b>
+Flag: <b>tjctf{marlborough's}</b>
