@@ -1,10 +1,11 @@
-# Login
-**Soal**
+# RSABC
+
+## Soal
 ![rsabcc](https://user-images.githubusercontent.com/26424136/82997703-ec351e80-a030-11ea-9a2f-45f5d0a21cbf.PNG)
 ![rsabccc](https://user-images.githubusercontent.com/26424136/83002151-e6423c00-a036-11ea-958e-9c77c94cb085.PNG)
 
 ____________________________________
-**Penyelesaian**
+## Penyelesaian
 Disini saya mencari flag menggunakan OS ubuntu dan Bahasa ruby
 - Membuat file bernama solve.rb yang berisi source code RSA dengan perintah `nano solve.rb`
 ![rsabc](https://user-images.githubusercontent.com/26424136/82997747-fce59480-a030-11ea-807a-baeebdd07248.PNG)
@@ -74,6 +75,6 @@ puts plaintext
 ![rsabc 2](https://user-images.githubusercontent.com/26424136/82997745-fbb46780-a030-11ea-8131-7cf01bf4cb7b.PNG)
 - Flag telah ditemukan <br />
 ____________________________________
-**Flag**
+## Flag
 
 Flag: <b>tjctf{BOLm1QMWi3c}</b>
