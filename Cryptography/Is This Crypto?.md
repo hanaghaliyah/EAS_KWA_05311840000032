@@ -1,14 +1,15 @@
-# Is This Crypto? - 50 points
+# Is This Crypto?
 
-## Problem
+## SOAL
+![is this crypto](https://user-images.githubusercontent.com/26424136/83210629-8d34ee00-a185-11ea-9c94-e708a7d7ca85.PNG)
+
 [Is this crypto](https://static.tjctf.org/e141851decd4f7afab034c7055db229bd54011d2860ebd622302088fd4e062ae_file.txt)?
 
 Òãèáåþöãðáùè±øâ±ð±õøâòøáýøÿô±åùðå±ùðâ±óôôÿ±ðãþäÿõ±÷þã±àäøåô±ð±ýþÿö±åøüô½±óäå±øÿ±ãôòôÿå±åøüôâ±øå±ùðâ±âôôÿ±ðÿ±ôéáýþâøþÿ±þ÷±ãôâôðãòù±ðÿõ±øüáýôüôÿåðåøþÿ¿±Åùøâ±õøâòøáýøÿô±âôôúâ±åþ±áãþçøõô±âôòäãô±òþüüäÿøòðåøþÿ±ðÿõ±âùðãôõ±õðåð±âåþãðöô±äâøÿö±áäóýøò±úôè±òãèáåþöãðáùè½±æùøòù±ôââôÿåøðýýè±ãôõäòôâ±åùô±õðüðöô±åùðå±òðÿ±óô±õþÿô±åùãþäöù±ôÿòãèáåøþÿ¿››åûòå÷êÿ¡Îåù ¤ÎøâÎúèý¢ì››Åùô±Õðåð±Òôÿåãô±Âåðÿõðãõ±÷þã±Òþÿ÷øõôÿåøðýøåè±ðÿõ±Øÿåôöãøåè±âåðåôâ±åùðå±ð±òþüáäåôã±âèâåôü±üäâå±ÿþå±òþÿåðøÿ±ðÿè±øÿ÷þãüðåøþÿ±åùðå±òðÿÿþå±óô±áãþçøõôõ±ðå±åùô±åøüô±þ÷±ãôàäôâåøÿö±øå¿±Åùô±áäãáþâô±þ÷±åùøâ±âåðÿõðãõ±øâ±åþ±ôÿâäãô±åùðå±ÿþ±õðåð±÷ãþü±ð±òþÿÿôòåôõ±òþüáäåôã±âèâåôü±òðÿ±óô±ðòòôââôõ±óè±ðÿ±äÿðäåùþãøâôõ±áðãåè¿±Åùøâ±æþäýõ±ðýýþæ±äâôãâ±åþ±áãþåôòå±åùôøã±õðåð±ðÿõ±üðúô±åùôøã±áôãâþÿðý±øÿ÷þãüðåøþÿ±âôòäãô½±æùøòù±øâ±üþãô±øüáþãåðÿå±åùðÿ±ôçôã¿
+<br />
+Hint: `The message is entirely printable characters` 
 
-## Hint
-The message is entirely printable characters 
-
-## Solution
+## Penyelesaian
 - Dari hint dapat diketahui bahwa pesan tersebut diubah tiap karakter.
 - Simbol yang paling sering muncul adalah ```±```. Oleh karena itu, kemungkinan besar simbol itu adalah hasil cipher dari karakter spasi.
 - Berikut hasil pengubahan kode sementara
@@ -38,4 +39,4 @@ The message is entirely printable characters
 
 
 ## Flag
-tjctf{n0_th15_is_kyl3}
+Flag: <b>tjctf{n0_th15_is_kyl3}</b>
