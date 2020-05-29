@@ -1,8 +1,11 @@
-## Login Sequel
+# Login Sequel
+
+## SOAL
 ![Login sequel](https://user-images.githubusercontent.com/26424136/83002844-bb0c1c80-a037-11ea-972d-124236c9f3ef.PNG)
 Tampilan Halaman Login
 ![login sequel 1](https://user-images.githubusercontent.com/26424136/82976688-f09a1100-a009-11ea-8ce7-222763d7b14c.PNG)
-#### Penyelesaian
+
+## Penyelesaian
 - Masalah injeksi SQL.
 - Kita dapat memeriksa kueri dengan melihat sumbernya.
 ```
@@ -30,4 +33,7 @@ admin' || 1=1 #
 username: admin' /*
 ```
 ![login sequel 2](https://user-images.githubusercontent.com/26424136/82976691-f1cb3e00-a009-11ea-867e-50549e12ae64.PNG) <br />
-<b>Flag: tjctf{W0w_wHa1_a_SqL1_exPeRt!}</b> 
+Flag telah ditemukan.
+
+## Flag
+Flag: <b>tjctf{W0w_wHa1_a_SqL1_exPeRt!}</b> 
