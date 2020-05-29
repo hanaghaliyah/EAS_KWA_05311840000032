@@ -1,5 +1,6 @@
 # Speedrunner
-## Soal
+
+## SOAL
 ![speedrunner](https://user-images.githubusercontent.com/26424136/83021056-9aea5680-a053-11ea-884a-41bc56ecd2b4.PNG)
 Tampilan pada halaman [weird parts](https://static.tjctf.org/6e61ec43e56cff1441f4cef46594bf75869a2c66cb47e86699e36577fbc746ff_encoded.txt)
 ![weird parts](https://user-images.githubusercontent.com/26424136/83020995-860dc300-a053-11ea-9c7a-af7a257a2dab.PNG)
