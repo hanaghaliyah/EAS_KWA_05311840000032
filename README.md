@@ -13,7 +13,7 @@ Matakuliah : Keamanan Web dan Aplikasi
 Team Name     : [milkita](https://tjctf.org/teams/profile/843) <br />
 Team Members  : [@hanaghaliyah](https://tjctf.org/users/profile/1627) <br />
 Points        : 610
-Observer Teams <br />
+Observer Teams
 ```
 <br />
 
