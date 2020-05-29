@@ -1,6 +1,6 @@
 # Hexillology
 
-**Soal**
+## SOAL
 
 ![Hexillology](https://user-images.githubusercontent.com/26424136/83003350-64531280-a038-11ea-867f-84896a6d9237.PNG)
 Gambar pada [flag](https://static.tjctf.org/af83861c918131864a4e3df24c49d9bad766ae701f02387ee0698593b44f3390_Hexillology.png) hexillology
@@ -8,7 +8,7 @@ Gambar pada [flag](https://static.tjctf.org/af83861c918131864a4e3df24c49d9bad766
 
 ____________________________________
 
-**Penyelesaian**
+## Penyelesaian
 
 - Buka Tool online [Image Color Picker](https://imagecolorpicker.com/en/) untuk mengetahui hex code color pada gambar tersebut
 - Upload image hexillology pada Image Color Picker <br />
@@ -21,6 +21,6 @@ Input : `#746a63#74667b#70594a#726651#4b3064#626154#50477d`
 
 ____________________________________
 
-**Flag**
+## Flag
 
 Flag: <b>tjctf{pYJrfQK0dbaTPG}</b>
