@@ -12,7 +12,7 @@ Disini saya mencari flag menggunakan OS ubuntu dan Bahasa ruby
 - `Nilai p dan q` diambil dari faktorisasi `nilai n`, disini saya memfaktorkan menggunakan [factordb](http://factordb.com/)<br /> 
 ![rsabc 3](https://user-images.githubusercontent.com/26424136/83001087-7089a080-a035-11ea-95bf-3caacc000c1d.PNG)
 - Berikut source code RSA pada <b>solve.rb</b>
-```
+  ```
 #!/usr/bin/env ruby
 require 'openssl'
 
@@ -70,7 +70,7 @@ plaintext = powmod(c, d, n)
 plaintext = plaintext.to_s(16)
 plaintext = hex2ascii(plaintext)
 puts plaintext
-```
+  ```
 - Jalankan program tersebut dengan perintah `ruby solve.py`
 ![rsabc 2](https://user-images.githubusercontent.com/26424136/82997745-fbb46780-a030-11ea-8131-7cf01bf4cb7b.PNG)
 - Flag telah ditemukan <br />
