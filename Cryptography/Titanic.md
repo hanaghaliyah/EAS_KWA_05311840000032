@@ -11,8 +11,9 @@ Setelah itu gunakan hashcat pada terminal dengan command sebagai berikut :
     hashcat -m 0 -a 0 9326ea0931baf5786cde7f280f965ebb titanic.txt --force --show
 
 Titanic.txt adalah script dari film "Titanic" yang sudah diubah. Tekan enter dan hasil akan langsung muncul. <br />
-![titanic](https://user-images.githubusercontent.com/26424136/83210293-adb07880-a184-11ea-8f29-c92419bb0c02.PNG)) <br />
-Cocokkan dengan MD5 hash `9326ea0931baf5786cde7f280f965ebb` pada [MD5 Hash Generator](https://passwordsgenerator.net/md5-hash-generator/) seperti gambar diatas. Flag telah ditemukan.
+Cocokkan dengan MD5 hash `9326ea0931baf5786cde7f280f965ebb` pada [MD5 Hash Generator](https://passwordsgenerator.net/md5-hash-generator/) seperti gambar diatas. Flag telah ditemukan. <br />
+![titanic](https://user-images.githubusercontent.com/26424136/83210293-adb07880-a184-11ea-8f29-c92419bb0c02.PNG) <br />
+
 ____________________________________
 ## Flag
 
