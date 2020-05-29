@@ -9,10 +9,12 @@ Matakuliah : Keamanan Web dan Aplikasi
 
 ## TJCTF 2020
 [TJCTF 2020](http://tjctf.org/)<br />
-Team Name : [milkita](https://tjctf.org/teams/profile/843) <br />
-Team Members is [@hanaghaliyah](https://tjctf.org/users/profile/1627) <br />
+```
+Team Name     : [milkita](https://tjctf.org/teams/profile/843) <br />
+Team Members  : [@hanaghaliyah](https://tjctf.org/users/profile/1627) <br />
+Points        : 610
 Observer Teams <br />
-Points : 610
+```
 <br />
 
 ## Problems Solved
